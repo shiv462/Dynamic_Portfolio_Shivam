@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio
 
 <img src ="https://github.com/shiv462" />
  
